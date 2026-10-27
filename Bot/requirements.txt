@@ -1,4 +1,5 @@
-streamlit
-openai
-pinecone-client
-huggingface-hub
+streamlit>=1.40
+pinecone>=5.0
+sentence-transformers>=3.0
+requests>=2.31
+python-dotenv>=1.0
